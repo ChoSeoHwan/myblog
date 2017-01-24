@@ -3,7 +3,7 @@
 Composer로 라라벨 프로젝트 설치
 ------------
 ```bash
-composer create-project laravel/laravel myapp --prefer-dist --verbose
+composer create-project laravel/laravel myblog --prefer-dist --verbose
 ```
 
 
